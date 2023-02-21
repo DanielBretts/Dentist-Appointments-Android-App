@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".Fragments.ConfirmationFragment">
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.google.android.material.textview.MaterialTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/Confirmation_TXT_Details"
+        android:layout_centerInParent="true"
+        android:backgroundTint="#666666"
+        android:fontFamily="@font/mandali"
+        android:gravity="center"
+        android:text="@string/confirm_your_appointment"
+        android:textSize="30sp" />
+    <com.google.android.material.textview.MaterialTextView
+        android:id="@+id/Confirmation_TXT_Details"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#666666"
+        android:fontFamily="@font/mandali"
+        android:layout_centerInParent="true"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:textSize="40sp"/>
+
+    <com.chinalwb.slidetoconfirmlib.SlideToConfirm
+        android:id="@+id/Confirmation_SLIDE_Confirm"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_gravity="center_vertical"
+        android:layout_margin="20dp"
+        android:layout_below="@id/Confirmation_TXT_Details"
+        app:border_radius="30dp"
+        app:border_width="2dp"
+        app:slider_background_color="@color/white"
+        app:slider_color="@color/teal_200"
+        app:slider_image="@drawable/ic_baseline_keyboard_double_arrow_right_24"
+        app:slider_width="100dp"
+        app:slider_reset_duration="1000"
+        app:slider_vibration_duration="50"
+        app:slider_threshold="1dp"
+        app:engage_text="@string/confirm"
+        app:engage_text_size="17sp"
+        app:engage_text_color="@android:color/black"
+        app:engaged_text_font="@font/mandali"
+        app:completed_text="@string/appointment_is_set"
+        app:completed_text_color="@android:color/white"
+        app:completed_text_size="30sp"
+
+        tools:context=".MainActivity" >
+    </com.chinalwb.slidetoconfirmlib.SlideToConfirm>
+</RelativeLayout>
+</FrameLayout>

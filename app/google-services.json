@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "395830327549",
+    "firebase_url": "https://patient-queue-management-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "patient-queue-management",
+    "storage_bucket": "patient-queue-management.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395830327549:android:7d0e6205b34d5b7c4a2694",
+        "android_client_info": {
+          "package_name": "com.example.patientqueuemanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395830327549-ec25r3n466shg7jar4hi7311uem7q7t9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.patientqueuemanagement",
+            "certificate_hash": "40d2e4e84e55f371ee5c25ce03a419fce1fe26e8"
+          }
+        },
+        {
+          "client_id": "395830327549-q2q3ht5j5n47sk4db6429e04aun8um8r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBckB7qwjmZVaLgcI6tfAfyoBYxROTWc6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395830327549-q2q3ht5j5n47sk4db6429e04aun8um8r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

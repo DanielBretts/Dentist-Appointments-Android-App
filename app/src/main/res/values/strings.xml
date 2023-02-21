@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Dr.Brettschneider</string>
+    <string name="doctor_mail" translatable="false">daniel.1481997@gmail.com</string>
+
+    <string name="facebook_application_id" translatable="false">550485847004699</string>
+    <!-- Facebook Application ID, prefixed by 'fb'. Enables Chrome Custom tabs. -->
+    <string name="facebook_login_protocol_scheme" translatable="false">fb550485847004699</string>
+    <string name="facebook_client_token" translatable="false">9df313c286aefdc0b53dba22ed6356d4</string>
+    <string name="doctor_details">My name is Dr. Yaacob Brettschneider. I was born in Haifa, Israel, in 1964. I graduated in 1991 from the Yassy Dental School in Romania. My entire childhood was spent in the light of the dental profession. My uncle, was a dentist in Bat Yam until the day he died in 1981. My father, Max Brettschneider, was a dentist also. The dental clinic was part of our home for over 45 years. In 1992 I opened my dental clinic in Kiryat Motzkin and  to this day the clinic serves my patients in a personal and warm way till this day. In 2018, the field of facial aesthetics was added to the practice and I perform aesthetic treatments.</string>
+    <string name="about_doctor">About Doctor</string>
+    <string name="create_appointment">Create Appointment</string>
+    <string name="first_name">First Name:</string>
+    <string name="last_name">Last Name:</string>
+    <string name="year_of_birth">Year of Birth:</string>
+    <string name="address">Address:</string>
+    <string name="phone_number">Phone Number:</string>
+    <string name="first_time_visiting">First time visiting?</string>
+    <string name="yes">Yes</string>
+    <string name="other_doctor_s_name">Other doctor\'s name:</string>
+    <string name="notes">Notes:</string>
+    <string name="add_notes_here_optional">Add notes here (optional)</string>
+    <string name="confirm_your_appointment">Confirm your appointment:</string>
+    <string name="confirm">Confirm</string>
+    <string name="choose_date_and_time">Choose date and time</string>
+    <string name="this_hour_is_occupied">This hour is occupied</string>
+    <string name="hello">Hello,</string>
+    <string name="user">User</string>
+    <string name="my_appointments">My Appointments</string>
+    <string name="logout">logout</string>
+    <string name="appointment_is_set">Appointment is set!</string>
+    <string name="no">No</string>
+    <string name="home">Home</string>
+    <string name="about">About</string>
+    <string name="doctor_login">Doctor</string>
+    <string name="settings">Settings</string>
+    <string name="change_viewmode">Change ViewMode</string>
+    <string name="change_language">Change to hebrew</string>
+    <string name="doctor_appointments">Your appointments</string>
+    <string name="settings_header">Settings ⚙</string>
+
+
+</resources>

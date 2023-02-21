@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ד"ר ברטשניידר</string>
+    <string name="doctor_details">שמי קובי ברטשניידר ונולדתי בחיפה בשנת 1964. סיימתי את לימודיי בשנת 1991 בבית הספר לרפואת שיניים ביאסי שברומניה. כילד, נחשפתי למקצוע רפואת השיניים, דוד שלי היה רופא שיניים בבת ים עד שנפטר בשנת 1981. אבי, מקס ברטשניידר ז"ל, היה רופא שיניים גם כן ומרפאת השיניים שלו היתה בבית שלנו בקרית מוצקין למעלה מ-45 שנים. בשנת 1992, פתחתי את מרפאת השיניים בקרית מוצקין, ועד היום המרפאה משרתת את המטופלים שלי בצורה אישית וחמה. בשנת 2018 התווסף לעיסוק תחום אסתטיקת הפנים. </string>
+    <string name="about_doctor">אודות הרופא</string>
+    <string name="create_appointment">זימון תור</string>
+    <string name="first_name">שם פרטי:</string>
+    <string name="last_name">שם משפחה:</string>
+    <string name="year_of_birth">שנת לידה:</string>
+    <string name="address">כתובת:</string>
+    <string name="phone_number">מספר טלפון</string>
+    <string name="first_time_visiting">פעם ראשונה אצלי?</string>
+    <string name="yes">כן</string>
+    <string name="other_doctor_s_name">שם הדוקטור</string>
+    <string name="notes">הערות:</string>
+    <string name="add_notes_here_optional">הוסף כאן הערות (לא חובה)</string>
+    <string name="confirm_your_appointment">אשר את התור</string>
+    <string name="confirm">החלק כדי לאשר</string>
+    <string name="choose_date_and_time">בחר תאריך ושעה</string>
+    <string name="this_hour_is_occupied">שעה זו תפוסה</string>
+    <string name="hello">שלום,</string>
+    <string name="user">אורח</string>
+    <string name="my_appointments">הפגישות שלי</string>
+    <string name="logout">התנתק</string>
+    <string name="appointment_is_set">הזימון הושלם</string>
+    <string name="no">לא</string>
+    <string name="home">בית</string>
+    <string name="about">אודות</string>
+    <string name="doctor_login">דוקטור</string>
+    <string name="settings">הגדרות</string>
+    <string name="change_viewmode">שנה מצב תצוגה</string>
+    <string name="change_language">החלף לאנגלית</string>
+    <string name="doctor_appointments">הפגישות שלך</string>
+    <string name="settings_header">הגדרות ⚙</string>
+</resources>
