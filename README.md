@@ -27,8 +27,6 @@ The android app lets you:
 
 https://user-images.githubusercontent.com/60986160/220419372-90382b53-5bce-4a09-a90b-98e20dcf2fdc.MP4
 
-
-
 ## Permissions
 
 On Android versions prior to Android 6.0, wallabag requires the following permissions:
@@ -36,5 +34,11 @@ On Android versions prior to Android 6.0, wallabag requires the following permis
 - Read and write access to external storage.
 - Allow phone call
 
+## APIs and Dependencies
 
-* This application was originally created by Daniel Brettschneider.
+- [Android View Animations](https://github.com/daimajia/AndroidViewAnimations)
+- [Slide to confirm](https://github.com/chinalwb/slidetoconfirm)
+- [ML-kit translation](https://developers.google.com/ml-kit/language/translation/android)
+
+
+### This application was originally created by Daniel Brettschneider.
