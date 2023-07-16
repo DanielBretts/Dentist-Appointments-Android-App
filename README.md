@@ -29,7 +29,7 @@ https://user-images.githubusercontent.com/60986160/220419372-90382b53-5bce-4a09-
 
 ## Permissions
 
-On Android versions prior to Android 6.0, wallabag requires the following permissions:
+On Android versions prior to Android 6.0, the app requires the following permissions:
 - Full Network Access.
 - Read and write access to external storage.
 - Allow phone call
