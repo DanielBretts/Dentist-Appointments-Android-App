@@ -5,7 +5,7 @@ width="200" hspace="10" vspace="10">
 
 ## About
 
-This app is an app made for scheduling emergency appointments for a dentist - my father Dr. Brettschneider.
+This app is an app made for scheduling emergency appointments for a dentist - my father.
 The app was made as a final project for "Mobile Applications" course in my college.
 
 ## Features
